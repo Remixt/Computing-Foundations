@@ -1,0 +1,3 @@
+#Family Tree program for computing foundations.
+### Funcationality includes adding a person, child, spouse, city ect...
+### You can also use a csv file to easily add multiple people quickly. An example csv has been provided.
